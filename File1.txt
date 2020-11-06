@@ -11,3 +11,5 @@ Change 4: By team mate om remote master WI:7
 Change 3-> Push to origin master
 
 Change 7-> on local master to rebase WI:8
+
+Change 8: Test simple all operation from remote to local WI:9 
