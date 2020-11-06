@@ -1,9 +1,11 @@
 Hello World Pritee !
 
-Change 1- for Login Feature
+Change 1- For Login Feature.
 
-Change 2- For fixing bug1
+Change 2- For fixing bug1.
 
-Change 3: Push to origin master
+Change 3: Push to origin master.
+
+Change 4: By team mate om remote master WI7
 
 
