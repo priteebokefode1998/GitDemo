@@ -4,9 +4,6 @@ Change 1- for Login Feature
 
 Change 2- For fixing bug1
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
+Change 3: Push to origin master
 
 
