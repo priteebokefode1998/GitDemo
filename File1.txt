@@ -1,4 +1,4 @@
-Hello World Pritee !
+Hello World Pritee ....
 
 Change 1- For Login Feature.
 
@@ -6,6 +6,8 @@ Change 2- For fixing bug1.
 
 Change 3: Push to origin master.
 
-Change 4: By team mate om remote master WI7
+Change 4: By team mate om remote master WI:7
 
+Change 3-> Push to origin master
 
+Change 7-> on local master to rebase WI:8
